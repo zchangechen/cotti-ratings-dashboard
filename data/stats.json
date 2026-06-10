@@ -1,0 +1,21 @@
+{
+  "totalStores": 349,
+  "totalCountries": 20,
+  "avgRating": 4.46,
+  "totalReviews": 21164,
+  "ratedStoreCount": 333,
+  "ratingDistribution": {
+    "0-3.0": 5,
+    "3.0-3.5": 5,
+    "3.5-4.0": 27,
+    "4.0-4.5": 110,
+    "4.5-5.0": 186
+  },
+  "problemStats": {
+    "total": 38,
+    "high": 10,
+    "mid": 0,
+    "low": 28
+  },
+  "lastUpdated": "2026-06-10 18:19"
+}
