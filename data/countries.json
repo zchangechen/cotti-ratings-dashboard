@@ -1,0 +1,222 @@
+[
+  {
+    "name": "中国澳门",
+    "storeCount": 3,
+    "avgRating": 4.5,
+    "ratedCount": 2,
+    "totalReviews": 9,
+    "bestRating": 5.0,
+    "bestStore": "南灣店",
+    "worstRating": 4.0,
+    "worstStore": "皇朝環宇豪庭店"
+  },
+  {
+    "name": "中国香港",
+    "storeCount": 12,
+    "avgRating": 3.44,
+    "ratedCount": 12,
+    "totalReviews": 181,
+    "bestRating": 5.0,
+    "bestStore": "新都城中心二期商場店",
+    "worstRating": 2.7,
+    "worstStore": "灣仔裕安大廈店"
+  },
+  {
+    "name": "加拿大",
+    "storeCount": 18,
+    "avgRating": 4.33,
+    "ratedCount": 18,
+    "totalReviews": 2584,
+    "bestRating": 4.8,
+    "bestStore": "70 Valleywood Dr",
+    "worstRating": 3.8,
+    "worstStore": "Lougheed Shopping Centre"
+  },
+  {
+    "name": "卡塔尔",
+    "storeCount": 30,
+    "avgRating": 4.58,
+    "ratedCount": 30,
+    "totalReviews": 1734,
+    "bestRating": 5.0,
+    "bestStore": "Al Fardan Tower West Bay",
+    "worstRating": 3.8,
+    "worstStore": "Doha Mall"
+  },
+  {
+    "name": "印度尼西亚",
+    "storeCount": 66,
+    "avgRating": 4.43,
+    "ratedCount": 65,
+    "totalReviews": 5012,
+    "bestRating": 5.0,
+    "bestStore": "Huawei Headquarters",
+    "worstRating": 3.6,
+    "worstStore": "Rukan Cordoba PIK 1"
+  },
+  {
+    "name": "德国",
+    "storeCount": 12,
+    "avgRating": 4.55,
+    "ratedCount": 12,
+    "totalReviews": 1374,
+    "bestRating": 4.9,
+    "bestStore": "Mönchengladbach",
+    "worstRating": 4.2,
+    "worstStore": "Friedrichstr. Bhf"
+  },
+  {
+    "name": "新加坡",
+    "storeCount": 3,
+    "avgRating": 4.53,
+    "ratedCount": 3,
+    "totalReviews": 139,
+    "bestRating": 5.0,
+    "bestStore": "Orchard Geteway",
+    "worstRating": 3.6,
+    "worstStore": "Grantral Mall"
+  },
+  {
+    "name": "日本",
+    "storeCount": 15,
+    "avgRating": 4.35,
+    "ratedCount": 13,
+    "totalReviews": 1223,
+    "bestRating": 4.8,
+    "bestStore": "大阪宗右衛門店",
+    "worstRating": 3.6,
+    "worstStore": "西池袋店"
+  },
+  {
+    "name": "比利时",
+    "storeCount": 1,
+    "avgRating": null,
+    "ratedCount": 0,
+    "totalReviews": 0,
+    "bestRating": null,
+    "bestStore": "",
+    "worstRating": null,
+    "worstStore": ""
+  },
+  {
+    "name": "法国",
+    "storeCount": 12,
+    "avgRating": 4.43,
+    "ratedCount": 11,
+    "totalReviews": 548,
+    "bestRating": 5.0,
+    "bestStore": "Place d'Italie",
+    "worstRating": 3.9,
+    "worstStore": "Victor Hugo"
+  },
+  {
+    "name": "泰国",
+    "storeCount": 8,
+    "avgRating": 4.91,
+    "ratedCount": 8,
+    "totalReviews": 92,
+    "bestRating": 5.0,
+    "bestStore": "Fortune Town",
+    "worstRating": 4.6,
+    "worstStore": "Sathorn City Tower"
+  },
+  {
+    "name": "澳大利亚",
+    "storeCount": 44,
+    "avgRating": 4.48,
+    "ratedCount": 43,
+    "totalReviews": 2523,
+    "bestRating": 5.0,
+    "bestStore": "Manly Beach",
+    "worstRating": 3.6,
+    "worstStore": "Eastwood"
+  },
+  {
+    "name": "美国",
+    "storeCount": 23,
+    "avgRating": 4.36,
+    "ratedCount": 20,
+    "totalReviews": 663,
+    "bestRating": 5.0,
+    "bestStore": "Cobble Hill",
+    "worstRating": 2.8,
+    "worstStore": "chinatown"
+  },
+  {
+    "name": "英国",
+    "storeCount": 6,
+    "avgRating": 4.9,
+    "ratedCount": 5,
+    "totalReviews": 473,
+    "bestRating": 5.0,
+    "bestStore": "Russell Square",
+    "worstRating": 4.8,
+    "worstStore": "Bank,Cheapside St"
+  },
+  {
+    "name": "荷兰",
+    "storeCount": 1,
+    "avgRating": 4.5,
+    "ratedCount": 1,
+    "totalReviews": 2,
+    "bestRating": 4.5,
+    "bestStore": "Grote Markt",
+    "worstRating": 4.5,
+    "worstStore": "Grote Markt"
+  },
+  {
+    "name": "菲律宾",
+    "storeCount": 20,
+    "avgRating": 4.67,
+    "ratedCount": 20,
+    "totalReviews": 509,
+    "bestRating": 5.0,
+    "bestStore": "FEU Morayta",
+    "worstRating": 4.0,
+    "worstStore": "UST Dapitan Navarro"
+  },
+  {
+    "name": "西班牙",
+    "storeCount": 9,
+    "avgRating": 4.64,
+    "ratedCount": 9,
+    "totalReviews": 658,
+    "bestRating": 4.9,
+    "bestStore": "Badal",
+    "worstRating": 3.8,
+    "worstStore": "Colombia"
+  },
+  {
+    "name": "越南",
+    "storeCount": 11,
+    "avgRating": 4.66,
+    "ratedCount": 9,
+    "totalReviews": 465,
+    "bestRating": 5.0,
+    "bestStore": "SC VivoCity",
+    "worstRating": 4.0,
+    "worstStore": "Vincom Mega Mall"
+  },
+  {
+    "name": "阿联酋",
+    "storeCount": 31,
+    "avgRating": 4.62,
+    "ratedCount": 29,
+    "totalReviews": 1804,
+    "bestRating": 5.0,
+    "bestStore": "Academic City",
+    "worstRating": 4.0,
+    "worstStore": "Lulu Souk Warsan"
+  },
+  {
+    "name": "马来西亚",
+    "storeCount": 24,
+    "avgRating": 4.29,
+    "ratedCount": 23,
+    "totalReviews": 1171,
+    "bestRating": 5.0,
+    "bestStore": "The Gardens North Tower",
+    "worstRating": 1.3,
+    "worstStore": "Sunshine Central Penang"
+  }
+]
